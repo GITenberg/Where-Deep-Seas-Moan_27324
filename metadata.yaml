@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32628'
     url: http://www.gutenberg.org/2009/agents/32628
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27324#Where-Deep-Seas-Moan
 gutenberg_issued: '2008-11-24'
 gutenberg_type: Text
 identifiers:
